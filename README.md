@@ -1,3 +1,3 @@
 # draganddrop
 
-[demo | https://shailobaf.github.io/draganddrop/]
+['demo' | https://shailobaf.github.io/draganddrop/]
